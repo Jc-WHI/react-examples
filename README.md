@@ -10,3 +10,6 @@
 
 ### 1. react 기본 컴포넌트 구현 
 -예제 코드에서 여러 모듈이 사용되고 있으므로, 이 모듈들을 어떻게 응용할 지 강의 및 공식 문서를 통해 습득중 
+
+### 2. React 개념 정리
+- https://github.com/Jc-WHI/react-examples/blob/main/react.md
