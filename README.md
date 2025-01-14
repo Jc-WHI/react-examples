@@ -1,6 +1,6 @@
 # React 구현 프로젝트 
 
--udemy의 react 완벽 가이드 강의 수강과 동시에, react ui(https://reactjsexample.com)를 구현 해보는 프로젝트.
+-udemy의 react 완벽 가이드 강의 수강과 동시에, react ui(https://reactjsexample.com) 를 구현 해보는 프로젝트.
 
 -react의 경우 독자적인 체계가 있기 때문에 이 체계에 따라서 구현을 하는 연습
 
